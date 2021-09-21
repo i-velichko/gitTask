@@ -1,10 +1,10 @@
 1 change from folder 2 step 18
 2 change from folder 2 step 18
 3%
-4
-5
+4 change from folder1 step19
+5 change from folder1 step19
 646
-7
-8
+7 change from folder1 step20
+8 change from folder1 step20
 97%
 10
